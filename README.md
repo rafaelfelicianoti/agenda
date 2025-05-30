@@ -99,8 +99,8 @@ Este é um sistema completo para agendamento de consultas, composto por um **fro
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/rafaelfelicianoti/agenda.git
+cd agenda
 ```
 
 ### 2. Rodando o backend
